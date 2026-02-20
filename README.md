@@ -7,7 +7,11 @@
 
 ## Current Projects
 
-- 🦞 **[Name](https://github.com)** - Description
+- 🗺️ **[Reserva](https://github.com/helloandrii/Reserva)** - Location-based mobile app for discovering and booking nearby services
+- 💪 **[Aurelius](https://github.com/helloandrii/Aurelius)** - Self-improvement mobile app focused on discipline, confidence, and Stoic principles
+- 💰 **[Monetum](https://github.com/helloandrii/Monetum)** - AI-powered personal finance mobile app for budgeting and financial insights
+- 
+- 📱 **[react-native-app-template](https://github.com/helloandrii/Monetum)** - Production-ready React Native template for iOS and Android with modern UI and latest platform features
 
 ## GitHub Activity
 
