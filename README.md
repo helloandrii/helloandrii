@@ -1,4 +1,4 @@
-# Hi, I'm Andrii 
+# Hello, I'm Andrii 
 
 **Bratislava** | **React Native Developer** 
 
